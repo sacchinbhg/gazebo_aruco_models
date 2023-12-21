@@ -27,3 +27,10 @@ Now in any model file include the marker using:
   <pose>0 0 10 3.14 0 3.14</pose>
 </include>
 ```
+## Making A Custom Aruco Model
+
+Making a custom model is a little hard but using the files available in this repo might make it easier for you.
+
+First download and install Blender https://www.blender.org/
+
+Next open the sample.blend file available at the repo in blender
