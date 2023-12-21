@@ -37,3 +37,7 @@ Next open the sample.blend file available at the repo using blender blender
 
 Now go to the material property of the aruco model and select the aruco image you want:
 ![blender_info](https://github.com/sacchinbhg/gazebo_aruco_models/assets/61612220/5c4ef22b-4046-4284-b04b-7d0fb771d99f)
+
+Now export the saved blender image to a .dae file!
+
+Finally use the format for any marker file and make the same file and paste into the model folder of your gazebo library!
