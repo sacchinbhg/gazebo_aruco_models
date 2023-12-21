@@ -33,4 +33,7 @@ Making a custom model is a little hard but using the files available in this rep
 
 First download and install Blender https://www.blender.org/
 
-Next open the sample.blend file available at the repo in blender
+Next open the sample.blend file available at the repo using blender blender
+
+Now go to the material property of the aruco model and select the aruco image you want:
+![blender_info](https://github.com/sacchinbhg/gazebo_aruco_models/assets/61612220/5c4ef22b-4046-4284-b04b-7d0fb771d99f)
