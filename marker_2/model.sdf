@@ -2,14 +2,14 @@
 <sdf version="1.5">
 
   <model name='Marker 2'>
-    <pose frame=''>0 0 0 3.14 0 </pose>
+    <pose frame=''>0 0 5 3.14 0 </pose>
     <static>1</static>
     <link name='link'>
 
       <collision name='collision'>
         <geometry>
           <mesh>
-		        <uri>model://marker_1/meshes/6x6_2.dae</uri>
+		        <uri>model://marker_2/meshes/6x6_2.dae</uri>
           </mesh>
         </geometry>
       </collision>
@@ -18,7 +18,7 @@
         <cast_shadows>0</cast_shadows>
         <geometry>
           <mesh>
-		        <uri>model://marker_1/meshes/6x6_2.dae</uri>
+		        <uri>model://marker_2/meshes/6x6_2.dae</uri>
           </mesh>
         </geometry>
       </visual>
